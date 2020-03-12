@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item android:id="@+id/movies"
+            android:icon="@drawable/icon_movies"
+            android:title="@string/movies"/>
+
+        <item android:id="@+id/maps"
+            android:icon="@drawable/icon_movies"
+            android:title="@string/maps"/>
+
+        <item android:id="@+id/news"
+            android:icon="@drawable/icon_movies"
+            android:title="@string/news"/>
+
+
+    </group>
+
+
+    <item android:title="@string/extra">
+        <menu>
+            <item
+                android:id="@+id/info"
+                android:icon="@drawable/icon_info"
+                android:title="@string/about_app" />
+        </menu>
+    </item>
+
+
+</menu>

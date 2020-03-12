@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="owner">CG</string>
+    <string name="about_app">Application</string>
+    <string name="movies">Movies</string>
+    <string name="extra">Extra</string>
+    <string name="maps">Maps</string>
+    <string name="news">News</string>
+    <string name="movie_description">Movie description</string>
+    <string name="movie_starring">Starring</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
